@@ -161,8 +161,8 @@ x     Exact y     Euler y     Euler Abs Err  Euler Rel Err  RK4 y       RK4 Abs 
 
 You can also include graphs in your report:
 
-![Solution Comparison](images/solutions_graph)
-![Error Comparison](images/errors_graph)
+![Solution Comparison](images/solutions_graph.png)
+![Error Comparison](images/errors_graph.png)
 
 (Add graphs to the `images/` folder if you want to display them in GitHub.)
 
