@@ -161,10 +161,12 @@ x     Exact y     Euler y     Euler Abs Err  Euler Rel Err  RK4 y       RK4 Abs 
 
 You can also include graphs in your report:
 
+#Solution Comparison
 ![Solution Comparison](solutions_graph.png)
+
+#Error Comparison
 ![Error Comparison](errors_graph.png)
 
-(Add graphs to the `images/` folder if you want to display them in GitHub.)
 
 ---
 
@@ -174,4 +176,3 @@ You can also include graphs in your report:
 * **RK4** gives excellent accuracy and stability for the same step size.
 * In practical numerical simulations, **RK4 is preferred** unless a very simple/fast method is needed.
 
-✨ End of Assignment ✨
