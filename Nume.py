@@ -2,7 +2,7 @@ import math
 
 # Step size
 h = 0.1
-# Number of steps
+# Number of step
 N = 5
 
 x_val = [0]
@@ -14,7 +14,7 @@ abs_error_rk4 = [0]
 rel_error_euler = [0]
 rel_error_rk4 = [0]
 accuracy_note_list = []
-stability_note_list = [] 
+stability_note_list = []
 
 # ODE function
 def f(x, y):
